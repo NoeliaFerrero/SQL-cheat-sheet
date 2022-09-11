@@ -6,9 +6,9 @@ Cheat sheet (hojas de trucos), también conocidas como apuntes de estudio ó "ma
 </p>
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/SQL-cheat-sheet/blob/main/sql_cheat sheet_2.jpg" alt="Prueba" width="450" height="450">
+  <img src="https://github.com/NoeliaFerrero/SQL-cheat-sheet/blob/main/sql_cheat_sheet_2.jpg" alt="Prueba" width="450" height="450">
 </p>
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/SQL-cheat-sheet/blob/main/sql_cheat sheet_3.jpg" alt="Prueba" width="450" height="450">
+  <img src="https://github.com/NoeliaFerrero/SQL-cheat-sheet/blob/main/sql_cheat_sheet_3.png" alt="Prueba" width="450" height="450">
 </p>
