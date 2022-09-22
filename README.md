@@ -18,4 +18,4 @@ Cheat sheet (hojas de trucos), también conocidas como apuntes de estudio ó "ma
 
 ![Noe's github stats](https://github-readme-stats.vercel.app/api?username=NoeliaFerrero&show_icons=true)
 
-[![Noe's github stats](https://github-readme-stats.vercel.app/api?username=NoeliaFerrero)](https://github.com/NoeliaFerrero/github-readme-stats)
+
